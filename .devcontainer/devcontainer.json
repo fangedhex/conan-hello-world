@@ -1,0 +1,11 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "extensions": [
+        "ms-vscode.cmake-tools",
+        "ms-vscode.cpptools",
+        "editorconfig.editorconfig",
+        "twxs.cmake"
+    ]
+}
